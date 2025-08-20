@@ -56,14 +56,15 @@ pip install -r requirements.txt
 3️⃣ Run the App
 streamlit run ml_lab.py
 
+
 📦 Requirements
-streamlit – interactive web app
 
-numpy & pandas – data handling
+-- streamlit – interactive web app
+-- numpy & pandas – data handling
+-- matplotlib – plotting
+-- scikit-learn – ML models
 
-matplotlib – plotting
 
-scikit-learn – ML models
 
 ✍️ Author
 👩 Kakoli Akter
