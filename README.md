@@ -45,20 +45,19 @@ This app covers **five core ML algorithms**:
 
 ## 🚀 How to Run  
 
-### 1️⃣ Clone the repository  
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/ML_Project_221902243.git
 cd ML_Project_221902243
 
-### 2️⃣ Install dependencies
+2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-### 3️⃣ Run the app
+3️⃣ Run the App
 streamlit run ml_lab.py
 
 📦 Requirements
 
-streamlit – interactive web app
+streamlit – interactive web app framework
 
 numpy & pandas – data handling
 
@@ -69,4 +68,5 @@ scikit-learn – ML models
 ✍️ Author
 
 👩 Kakoli Akter
+
 📧 kakoli080501@gmail.com
