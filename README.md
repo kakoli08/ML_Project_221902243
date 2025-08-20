@@ -45,6 +45,7 @@ This app covers **five core ML algorithms**:
 
 ## 🚀 How to Run  
 
+```bash
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ML_Project_221902243.git
 cd ML_Project_221902243
